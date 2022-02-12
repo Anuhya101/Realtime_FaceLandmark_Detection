@@ -14,6 +14,9 @@ The model can also detect multiple faces at a time
 ## Resources
 
 Tensorflow.Js models: https://www.tensorflow.org/js/models
+
 HTML Canvas: https://developer.mozilla.org/en-US/d...
+
 Create React App: https://reactjs.org/docs/create-a-new...
+
 
