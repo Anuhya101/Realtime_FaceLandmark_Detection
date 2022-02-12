@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/78052106/153710921-7f6e6e73-c077-456c-
 The model can also detect multiple faces at a time 
 
 
-##Resources
+## Resources
 
 Tensorflow.Js models: https://www.tensorflow.org/js/models
 HTML Canvas: https://developer.mozilla.org/en-US/d...
